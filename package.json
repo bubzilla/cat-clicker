@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/bubzilla/cat-clicker/issues"
   },
-  "homepage": "https://github.com/bubzilla/cat-clicker#readme"
+  "homepage": "https://github.com/bubzilla/cat-clicker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
