@@ -1,0 +1,17 @@
+{
+  "name": "cat-clicker",
+  "version": "1.0.0",
+  "description": "clicker for cats i drew in ms paint",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubzilla/cat-clicker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bubzilla/cat-clicker/issues"
+  },
+  "homepage": "https://github.com/bubzilla/cat-clicker#readme"
+}
